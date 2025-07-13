@@ -1,0 +1,737 @@
+{
+  "nodes": [
+    {
+      "id": "CR001",
+      "name": "Introducci\u00f3n a la Matem\u00e1tica",
+      "group": "Introducci\u00f3n a la Matem\u00e1tica"
+    },
+    {
+      "id": "CR002",
+      "name": "Introducci\u00f3n a las Ciencias Econ\u00f3micas",
+      "group": "Introducci\u00f3n a las Ciencias Econ\u00f3micas"
+    },
+    {
+      "id": "CR101",
+      "name": "Introducci\u00f3n al Conocimiento Cient\u00edfico",
+      "group": "Introducci\u00f3n al Conocimiento Cient\u00edfico"
+    },
+    {
+      "id": "CR102",
+      "name": "Administraci\u00f3n I",
+      "group": "Administraci\u00f3n I"
+    },
+    {
+      "id": "CR103",
+      "name": "\u00c1lgebra",
+      "group": "\u00c1lgebra"
+    },
+    {
+      "id": "CR104",
+      "name": "Introducci\u00f3n a la Contabilidad",
+      "group": "Introducci\u00f3n a la Contabilidad"
+    },
+    {
+      "id": "CR105",
+      "name": "An\u00e1lisis Matem\u00e1tico",
+      "group": "An\u00e1lisis Matem\u00e1tico"
+    },
+    {
+      "id": "CR106",
+      "name": "Microeconom\u00eda I",
+      "group": "Microeconom\u00eda I"
+    },
+    {
+      "id": "CR201",
+      "name": "Contabilidad Intermedia",
+      "group": "Contabilidad Intermedia"
+    },
+    {
+      "id": "CR202",
+      "name": "Derecho Privado",
+      "group": "Derecho Privado"
+    },
+    {
+      "id": "CR203",
+      "name": "Macroeconom\u00eda I",
+      "group": "Macroeconom\u00eda I"
+    },
+    {
+      "id": "CR204",
+      "name": "Inform\u00e1tica Aplicada a las Ciencias Econ\u00f3micas",
+      "group": "Inform\u00e1tica Aplicada a las Ciencias Econ\u00f3micas"
+    },
+    {
+      "id": "CR205",
+      "name": "Estad\u00edstica I",
+      "group": "Estad\u00edstica I"
+    },
+    {
+      "id": "CR206",
+      "name": "Derecho Constitucional y Administrativo",
+      "group": "Derecho Constitucional y Administrativo"
+    },
+    {
+      "id": "CR207",
+      "name": "Administraci\u00f3n II",
+      "group": "Administraci\u00f3n II"
+    },
+    {
+      "id": "CR208",
+      "name": "\u00c1rea Integrada I",
+      "group": "\u00c1rea Integrada I"
+    },
+    {
+      "id": "CR301",
+      "name": "Contabilidad Superior",
+      "group": "Contabilidad Superior"
+    },
+    {
+      "id": "CR302",
+      "name": "Finanzas P\u00fablicas",
+      "group": "Finanzas P\u00fablicas"
+    },
+    {
+      "id": "CR303",
+      "name": "Sistemas Administrativos",
+      "group": "Sistemas Administrativos"
+    },
+    {
+      "id": "CR304",
+      "name": "Derecho y Pr\u00e1ctica Laboral y de la Seguridad Social",
+      "group": "Derecho y Pr\u00e1ctica Laboral y de la Seguridad Social"
+    },
+    {
+      "id": "CR305",
+      "name": "Historia Econ\u00f3mica y Social",
+      "group": "Historia Econ\u00f3mica y Social"
+    },
+    {
+      "id": "CR306",
+      "name": "Derecho y Pr\u00e1ctica Societaria",
+      "group": "Derecho y Pr\u00e1ctica Societaria"
+    },
+    {
+      "id": "CR307",
+      "name": "Contabilidad de Costos",
+      "group": "Contabilidad de Costos"
+    },
+    {
+      "id": "CR308",
+      "name": "Actuaci\u00f3n Profesional I",
+      "group": "Actuaci\u00f3n Profesional I"
+    },
+    {
+      "id": "CR401",
+      "name": "Matem\u00e1tica Financiera y Actuarial",
+      "group": "Matem\u00e1tica Financiera y Actuarial"
+    },
+    {
+      "id": "CR402",
+      "name": "Sociolog\u00eda",
+      "group": "Sociolog\u00eda"
+    },
+    {
+      "id": "CR403",
+      "name": "Tributaci\u00f3n I",
+      "group": "Tributaci\u00f3n I"
+    },
+    {
+      "id": "CR404",
+      "name": "Estados Contables",
+      "group": "Estados Contables"
+    },
+    {
+      "id": "CR405",
+      "name": "Mercado e Instituciones Financieras",
+      "group": "Mercado e Instituciones Financieras"
+    },
+    {
+      "id": "CR406",
+      "name": "Contabilidad para la Gesti\u00f3n Empresaria",
+      "group": "Contabilidad para la Gesti\u00f3n Empresaria"
+    },
+    {
+      "id": "CR407",
+      "name": "Derecho y Pr\u00e1ctica Concursal y T\u00edtulos de Cr\u00e9dito",
+      "group": "Derecho y Pr\u00e1ctica Concursal y T\u00edtulos de Cr\u00e9dito"
+    },
+    {
+      "id": "CR408",
+      "name": "Actuaci\u00f3n Profesional II",
+      "group": "Actuaci\u00f3n Profesional II"
+    },
+    {
+      "id": "CR501",
+      "name": "Administraci\u00f3n y Contabilidad P\u00fablica I",
+      "group": "Administraci\u00f3n y Contabilidad P\u00fablica I"
+    },
+    {
+      "id": "CR502",
+      "name": "Tributaci\u00f3n II",
+      "group": "Tributaci\u00f3n II"
+    },
+    {
+      "id": "CR503",
+      "name": "Administraci\u00f3n Financiera",
+      "group": "Administraci\u00f3n Financiera"
+    },
+    {
+      "id": "CR504",
+      "name": "Actuaci\u00f3n Profesional III",
+      "group": "Actuaci\u00f3n Profesional III"
+    },
+    {
+      "id": "CR505",
+      "name": "Administraci\u00f3n y Contabilidad P\u00fablica II",
+      "group": "Administraci\u00f3n y Contabilidad P\u00fablica II"
+    },
+    {
+      "id": "CR506",
+      "name": "Auditor\u00eda",
+      "group": "Auditor\u00eda"
+    },
+    {
+      "id": "CR507",
+      "name": "Procedimiento Tributario",
+      "group": "Procedimiento Tributario"
+    },
+    {
+      "id": "CR508",
+      "name": "Actuaci\u00f3n Profesional IV",
+      "group": "Actuaci\u00f3n Profesional IV"
+    },
+    {
+      "id": "CR700",
+      "name": "Espacio Final de Integraci\u00f3n \u2013 PPS",
+      "group": "Espacio Final de Integraci\u00f3n \u2013 PPS"
+    },
+    {
+      "id": "CR810",
+      "name": "Idioma Ingl\u00e9s (Lectura comprensiva)",
+      "group": "Idioma Ingl\u00e9s (Lectura comprensiva)"
+    },
+    {
+      "id": "CR811",
+      "name": "Idioma Portugu\u00e9s (Lectura comprensiva)",
+      "group": "Idioma Portugu\u00e9s (Lectura comprensiva)"
+    }
+  ],
+  "links": [
+    {
+      "source": "CR002",
+      "target": "CR101"
+    },
+    {
+      "source": "CR002",
+      "target": "CR102"
+    },
+    {
+      "source": "CR001",
+      "target": "CR103"
+    },
+    {
+      "source": "CR002",
+      "target": "CR104"
+    },
+    {
+      "source": "CR103",
+      "target": "CR105"
+    },
+    {
+      "source": "CR103",
+      "target": "CR106"
+    },
+    {
+      "source": "CR002",
+      "target": "CR106"
+    },
+    {
+      "source": "CR104",
+      "target": "CR201"
+    },
+    {
+      "source": "CR101",
+      "target": "CR202"
+    },
+    {
+      "source": "CR106",
+      "target": "CR203"
+    },
+    {
+      "source": "CR101",
+      "target": "CR204"
+    },
+    {
+      "source": "CR105",
+      "target": "CR205"
+    },
+    {
+      "source": "CR202",
+      "target": "CR206"
+    },
+    {
+      "source": "CR102",
+      "target": "CR207"
+    },
+    {
+      "source": "CR101",
+      "target": "CR208"
+    },
+    {
+      "source": "CR102",
+      "target": "CR208"
+    },
+    {
+      "source": "CR104",
+      "target": "CR208"
+    },
+    {
+      "source": "CR106",
+      "target": "CR208"
+    },
+    {
+      "source": "CR201",
+      "target": "CR301"
+    },
+    {
+      "source": "CR810",
+      "target": "CR301"
+    },
+    {
+      "source": "CR811",
+      "target": "CR301"
+    },
+    {
+      "source": "CR203",
+      "target": "CR302"
+    },
+    {
+      "source": "CR206",
+      "target": "CR302"
+    },
+    {
+      "source": "CR810",
+      "target": "CR302"
+    },
+    {
+      "source": "CR811",
+      "target": "CR302"
+    },
+    {
+      "source": "CR201",
+      "target": "CR303"
+    },
+    {
+      "source": "CR207",
+      "target": "CR303"
+    },
+    {
+      "source": "CR810",
+      "target": "CR303"
+    },
+    {
+      "source": "CR811",
+      "target": "CR303"
+    },
+    {
+      "source": "CR201",
+      "target": "CR304"
+    },
+    {
+      "source": "CR206",
+      "target": "CR304"
+    },
+    {
+      "source": "CR810",
+      "target": "CR304"
+    },
+    {
+      "source": "CR811",
+      "target": "CR304"
+    },
+    {
+      "source": "CR101",
+      "target": "CR305"
+    },
+    {
+      "source": "CR203",
+      "target": "CR305"
+    },
+    {
+      "source": "CR810",
+      "target": "CR305"
+    },
+    {
+      "source": "CR811",
+      "target": "CR305"
+    },
+    {
+      "source": "CR202",
+      "target": "CR306"
+    },
+    {
+      "source": "CR810",
+      "target": "CR306"
+    },
+    {
+      "source": "CR811",
+      "target": "CR306"
+    },
+    {
+      "source": "CR106",
+      "target": "CR307"
+    },
+    {
+      "source": "CR205",
+      "target": "CR307"
+    },
+    {
+      "source": "CR301",
+      "target": "CR307"
+    },
+    {
+      "source": "CR810",
+      "target": "CR307"
+    },
+    {
+      "source": "CR811",
+      "target": "CR307"
+    },
+    {
+      "source": "CR201",
+      "target": "CR308"
+    },
+    {
+      "source": "CR202",
+      "target": "CR308"
+    },
+    {
+      "source": "CR208",
+      "target": "CR308"
+    },
+    {
+      "source": "CR810",
+      "target": "CR308"
+    },
+    {
+      "source": "CR811",
+      "target": "CR308"
+    },
+    {
+      "source": "CR202",
+      "target": "CR401"
+    },
+    {
+      "source": "CR203",
+      "target": "CR401"
+    },
+    {
+      "source": "CR205",
+      "target": "CR401"
+    },
+    {
+      "source": "CR207",
+      "target": "CR401"
+    },
+    {
+      "source": "CR810",
+      "target": "CR401"
+    },
+    {
+      "source": "CR811",
+      "target": "CR401"
+    },
+    {
+      "source": "CR208",
+      "target": "CR402"
+    },
+    {
+      "source": "CR305",
+      "target": "CR402"
+    },
+    {
+      "source": "CR810",
+      "target": "CR402"
+    },
+    {
+      "source": "CR811",
+      "target": "CR402"
+    },
+    {
+      "source": "CR302",
+      "target": "CR403"
+    },
+    {
+      "source": "CR304",
+      "target": "CR403"
+    },
+    {
+      "source": "CR306",
+      "target": "CR403"
+    },
+    {
+      "source": "CR307",
+      "target": "CR403"
+    },
+    {
+      "source": "CR810",
+      "target": "CR403"
+    },
+    {
+      "source": "CR811",
+      "target": "CR403"
+    },
+    {
+      "source": "CR301",
+      "target": "CR404"
+    },
+    {
+      "source": "CR308",
+      "target": "CR404"
+    },
+    {
+      "source": "CR810",
+      "target": "CR404"
+    },
+    {
+      "source": "CR811",
+      "target": "CR404"
+    },
+    {
+      "source": "CR203",
+      "target": "CR405"
+    },
+    {
+      "source": "CR205",
+      "target": "CR405"
+    },
+    {
+      "source": "CR810",
+      "target": "CR405"
+    },
+    {
+      "source": "CR811",
+      "target": "CR405"
+    },
+    {
+      "source": "CR203",
+      "target": "CR406"
+    },
+    {
+      "source": "CR207",
+      "target": "CR406"
+    },
+    {
+      "source": "CR307",
+      "target": "CR406"
+    },
+    {
+      "source": "CR308",
+      "target": "CR406"
+    },
+    {
+      "source": "CR810",
+      "target": "CR406"
+    },
+    {
+      "source": "CR811",
+      "target": "CR406"
+    },
+    {
+      "source": "CR304",
+      "target": "CR407"
+    },
+    {
+      "source": "CR306",
+      "target": "CR407"
+    },
+    {
+      "source": "CR810",
+      "target": "CR407"
+    },
+    {
+      "source": "CR811",
+      "target": "CR407"
+    },
+    {
+      "source": "CR303",
+      "target": "CR408"
+    },
+    {
+      "source": "CR304",
+      "target": "CR408"
+    },
+    {
+      "source": "CR306",
+      "target": "CR408"
+    },
+    {
+      "source": "CR307",
+      "target": "CR408"
+    },
+    {
+      "source": "CR308",
+      "target": "CR408"
+    },
+    {
+      "source": "CR810",
+      "target": "CR408"
+    },
+    {
+      "source": "CR811",
+      "target": "CR408"
+    },
+    {
+      "source": "CR302",
+      "target": "CR501"
+    },
+    {
+      "source": "CR810",
+      "target": "CR501"
+    },
+    {
+      "source": "CR811",
+      "target": "CR501"
+    },
+    {
+      "source": "CR302",
+      "target": "CR502"
+    },
+    {
+      "source": "CR810",
+      "target": "CR502"
+    },
+    {
+      "source": "CR811",
+      "target": "CR502"
+    },
+    {
+      "source": "CR401",
+      "target": "CR503"
+    },
+    {
+      "source": "CR404",
+      "target": "CR503"
+    },
+    {
+      "source": "CR405",
+      "target": "CR503"
+    },
+    {
+      "source": "CR810",
+      "target": "CR503"
+    },
+    {
+      "source": "CR811",
+      "target": "CR503"
+    },
+    {
+      "source": "CR304",
+      "target": "CR504"
+    },
+    {
+      "source": "CR308",
+      "target": "CR504"
+    },
+    {
+      "source": "CR402",
+      "target": "CR504"
+    },
+    {
+      "source": "CR404",
+      "target": "CR504"
+    },
+    {
+      "source": "CR810",
+      "target": "CR504"
+    },
+    {
+      "source": "CR811",
+      "target": "CR504"
+    },
+    {
+      "source": "CR501",
+      "target": "CR505"
+    },
+    {
+      "source": "CR810",
+      "target": "CR505"
+    },
+    {
+      "source": "CR811",
+      "target": "CR505"
+    },
+    {
+      "source": "CR303",
+      "target": "CR506"
+    },
+    {
+      "source": "CR404",
+      "target": "CR506"
+    },
+    {
+      "source": "CR406",
+      "target": "CR506"
+    },
+    {
+      "source": "CR810",
+      "target": "CR506"
+    },
+    {
+      "source": "CR811",
+      "target": "CR506"
+    },
+    {
+      "source": "CR403",
+      "target": "CR507"
+    },
+    {
+      "source": "CR810",
+      "target": "CR507"
+    },
+    {
+      "source": "CR811",
+      "target": "CR507"
+    },
+    {
+      "source": "CR304",
+      "target": "CR508"
+    },
+    {
+      "source": "CR404",
+      "target": "CR508"
+    },
+    {
+      "source": "CR407",
+      "target": "CR508"
+    },
+    {
+      "source": "CR408",
+      "target": "CR508"
+    },
+    {
+      "source": "CR810",
+      "target": "CR508"
+    },
+    {
+      "source": "CR811",
+      "target": "CR508"
+    },
+    {
+      "source": "CR810",
+      "target": "CR700"
+    },
+    {
+      "source": "CR811",
+      "target": "CR700"
+    },
+    {
+      "source": "CR002",
+      "target": "CR810"
+    },
+    {
+      "source": "CR002",
+      "target": "CR811"
+    }
+  ]
+}
